@@ -2,9 +2,9 @@
 
 Setup:
 - In order to run the application you need to set 3 environment variables:
-  -PORT
-  -MONGODB_URL
-  -JWT_SECRET
+  - PORT
+  - MONGODB_URL
+  - JWT_SECRET
   
   This can be done by running the application using the command below, substituting your own variable values.
   
